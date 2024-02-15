@@ -1,0 +1,23 @@
+{
+  "name": "lab318.1.1",
+  "version": "1.0.0",
+  "description": "A basic project showing node and npm capabilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "None"
+  },
+  "keywords": [
+    "basic",
+    "practice",
+    "node.js",
+    "npm",
+    "javascript"
+  ],
+  "author": "Me",
+  "license": "ISC"
+}
